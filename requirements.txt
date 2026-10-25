@@ -1,0 +1,26 @@
+langchain
+langchain-community
+langchain-core
+pypdf
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinjaz
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv
+langchain-groq
+sentence-transformers
+dotenv
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+langchain-classic
+-e .
+uvicorn
+fastapi
+python-multipart
+PyPDF2
+upstash-redis
